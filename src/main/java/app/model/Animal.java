@@ -1,4 +1,4 @@
 package app.model;
 
-public class Animal {
+public abstract class Animal {
 }
